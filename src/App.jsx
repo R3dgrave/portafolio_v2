@@ -10,7 +10,7 @@ import ProjectsSection from "./sections/ProjectsSection";
 function App() {
   return (
     <>
-      <div className="bg-gradient-to-b from-[#171E27] via-[#171E27] to-[#681B15] min-h-screen w-full">
+      <div className="bg-gradient-to-b from-[#2e2f3e] via-[#2e2f3e] to-[#2e2f3e] min-h-screen w-full">
         <div className="w-full flex justify-center py-5 relative">
           <MotionAnimationGradiant>
             <div className="w-[100%] flex flex-col rounded-lg">
