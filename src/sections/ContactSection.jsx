@@ -26,7 +26,7 @@ const ContactSection = () => {
           className="btn-error"
         />
         <IconLink
-          href="/tu-cv.pdf"
+          href="https://github.com/R3dgrave/portafolio_v2/blob/main/src/assets/cv.pdf"
           icon={FaFileAlt}
           label="Descargar CV"
           className="btn-secondary"
