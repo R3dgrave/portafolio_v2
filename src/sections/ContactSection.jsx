@@ -26,10 +26,11 @@ const ContactSection = () => {
           className="btn-error"
         />
         <IconLink
-          href="https://github.com/R3dgrave/portafolio_v2/blob/main/src/assets/cv.pdf"
+          href="https://drive.google.com/file/d/12nsTDJ3ytLC5da6SNnWMzdZDkY7jJFe4/view?usp=sharing"
           icon={FaFileAlt}
           label="Descargar CV"
           className="btn-secondary"
+          download
         />
         <a className="link link-hover text-sm flex gap-2 items-center pl-4 pt-4">
           <FaEnvelope className="w-4 h-4" />
