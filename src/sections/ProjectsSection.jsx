@@ -12,7 +12,7 @@ const ProjectsSection = () => {
 
   const projects = [
     {
-      image: "src/assets/ProjectsIMG/YourNotebook.webp",
+      image: "https://raw.githubusercontent.com/R3dgrave/portafolio_v2/refs/heads/main/src/assets/ProjectsIMG/YourNotebook.webp",
       title: "Your Notebook",
       technologies: [SiReact, SiTailwindcss],
       description:
@@ -21,7 +21,7 @@ const ProjectsSection = () => {
       demoLink: "https://r3dgrave.github.io/YourNotebook/",
     },
     {
-      image: "src/assets/ProjectsIMG/E-commerce.webp",
+      image: "https://raw.githubusercontent.com/R3dgrave/portafolio_v2/refs/heads/main/src/assets/ProjectsIMG/E-commerce.webp",
       title: "Tienda Web",
       technologies: [SiAngular, SiTailwindcss, DiNodejs, DiMongodb],
       description:
@@ -30,7 +30,7 @@ const ProjectsSection = () => {
       demoLink: "https://e-commerce-frontend-teal-one.vercel.app/",
     },
     {
-      image: "src/assets/ProjectsIMG/Calculadora.webp",
+      image: "https://raw.githubusercontent.com/R3dgrave/portafolio_v2/refs/heads/main/src/assets/ProjectsIMG/Calculadora.webp",
       title: "Calculadora",
       technologies: [SiReact, SiTailwindcss],
       description:
@@ -39,7 +39,7 @@ const ProjectsSection = () => {
       demoLink: "https://r3dgrave.github.io/YourCalculator/",
     },
     {
-      image: "src/assets/ProjectsIMG/PortafolioV1.webp",
+      image: "https://raw.githubusercontent.com/R3dgrave/portafolio_v2/refs/heads/main/src/assets/ProjectsIMG/PortafolioV1.webp",
       title: "Portafolio V1",
       technologies: [SiAngular, SiTailwindcss],
       description:
@@ -48,7 +48,7 @@ const ProjectsSection = () => {
       demoLink: "https://portafolio-diegoabanto.vercel.app/",
     },
     {
-      image: "src/assets/ProjectsIMG/ColorHexAleatorio.webp",
+      image: "https://raw.githubusercontent.com/R3dgrave/portafolio_v2/refs/heads/main/src/assets/ProjectsIMG/ColorHexAleatorio.webp",
       title: "Color Hex Aleatorio",
       technologies: [FaHtml5, IoLogoCss3, IoLogoJavascript],
       description:
