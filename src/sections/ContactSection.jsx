@@ -26,16 +26,16 @@ const ContactSection = () => {
           className="btn-error"
         />
         <IconLink
-          href="https://drive.google.com/file/d/12nsTDJ3ytLC5da6SNnWMzdZDkY7jJFe4/view?usp=sharing"
+          href="https://drive.google.com/file/d/1NCw4PSy_QHCeYWtBP8JtSn6_5OEsymrx/view"
           icon={FaFileAlt}
           label="Descargar CV"
           target="_blank"
           className="btn-secondary"
         />
-        <a className="link link-hover text-sm flex gap-2 items-center pl-4 pt-4">
+        <button className="link link-hover text-sm flex gap-2 items-center pl-4 pt-4">
           <FaEnvelope className="w-4 h-4" />
           diego.abantomendoza@gmail.com
-        </a>
+        </button>
       </div>
     </>
   );

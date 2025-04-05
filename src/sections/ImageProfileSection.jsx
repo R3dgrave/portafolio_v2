@@ -7,7 +7,7 @@ const ImageProfileSection = () => {
         {/* Imagen de perfil circular */}
         <div className="w-24 h-24 sm:w-30 sm:h-30 md:w-40 md:h-40 lg:w-46 lg:h-46 rounded-full overflow-hidden border-4 border-[#0f0e17]">
           <img
-            src="https://raw.githubusercontent.com/R3dgrave/portafolio_v2/refs/heads/main/src/assets/photo-me.webp"
+            src="./photo-me.webp"
             alt="Perfil"
             className="w-full h-full object-cover"
           />
